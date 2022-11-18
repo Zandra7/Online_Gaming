@@ -28,12 +28,12 @@ body {
 }
 
 h1 {
-    text-align: center;
-    margin-left: 150px;
-    margin-right: 150px;
-    font-size: 54px;
-    font-family:"OsloSans";
-    font-weight: lighter;
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 54px;
+  font-family:"OsloSans";
+  font-weight: lighter;
 }
 
 h2 {
@@ -51,11 +51,11 @@ h3 {
 }
 
 p {
-    text-align: left;
-    font-size: 18px;
-    margin-left: 150px;
-    margin-right: 150px;
-    line-height: 1.8;
+  text-align: left;
+  font-size: 18px;
+  margin-left: 150px;
+  margin-right: 150px;
+  line-height: 1.8;
 }
 
 li {
@@ -131,11 +131,11 @@ a.Positive {
 }
 
 .beholder {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto 1fr;
-    grid-template-areas: "a a" 
-                         "b c";
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas: "a a" 
+                       "b c";
 }
 
 .content {
@@ -153,12 +153,10 @@ a.Positive {
 
 .picture1 {
   grid-area: b;
-  
 }
 
 .picture2 {
   grid-area: c;
- 
 }
 
 .podcast {
