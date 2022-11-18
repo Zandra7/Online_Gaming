@@ -1,6 +1,7 @@
 * {
   font-family:"OsloSans";
   font-size: 18px;
+  scroll-behavior: smooth;
 }
 
 @font-face {
@@ -26,6 +27,7 @@ body {
   margin:0;
   background-color: #FFEC9A;
 }
+
 
 h1 {
   text-align: center;
